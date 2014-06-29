@@ -1,0 +1,23 @@
+[submodule "puppet/modules/bootstrap"]
+	path = puppet/modules/bootstrap
+	url = git@github.com:AshtreeCC/puppet-bootstrap.git
+	branch = master
+[submodule "puppet/modules/composer"]
+	path = puppet/modules/composer
+	url = git@github.com:AshtreeCC/puppet-composer.git
+	branch = master
+[submodule "puppet/modules/mysql"]
+	path = puppet/modules/mysql
+	url = git@github.com:AshtreeCC/puppet-mysql.git
+	branch = master
+[submodule "puppet/modules/nginx"]
+	path = puppet/modules/nginx
+	url = git@github.com:AshtreeCC/puppet-nginx.git
+	branch = master
+[submodule "puppet/modules/php"]
+	path = puppet/modules/php
+	url = git@github.com:AshtreeCC/puppet-php.git
+	branch = master
+[submodule "puppet/modules/tools"]
+	path = puppet/modules/tools
+	url = git@github.com:AshtreeCC/puppet-tools.git
